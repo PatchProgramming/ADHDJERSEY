@@ -72,5 +72,6 @@ hr{
 #mc_embed_signup{
   margin:auto;
   -webkit-box-shadow: 1px 4px 25px 3px rgba(101,101,101,0.67); 
-box-shadow: 1px 4px 25px 3px rgba(101,101,101,0.67);
+  box-shadow: 1px 4px 25px 3px rgba(101,101,101,0.67);
+  width: 80%;
 }
