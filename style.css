@@ -60,8 +60,7 @@ footer{
 }
 #top-img{
   padding-top:50px;
-  width: auto;
-  height: auto;
+  width: -webkit-fill-available;
 }
 hr{
   border-top: 5px dashed #3E2723;
